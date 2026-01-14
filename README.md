@@ -15,4 +15,4 @@ CSS3 (styles.css)
 
 
 Demo
-Open index.html in your browser or view live demo.
+Open `index.html` in your browser or view the live demo: https://portfolio-website-521840a9a-tanushree-jatias-projects.vercel.app
